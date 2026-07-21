@@ -8,8 +8,11 @@ Goal: **sub-4:00** (~5:41/km average pace). Training starts **Wednesday 22 July 
 - **`Marathon_Training_Plan.xlsx`** — the plan and the log, in one workbook. Works on
   laptop (Excel/LibreOffice) and phone (Excel mobile app). Sheets:
   - `Overview` — race date/goal, live countdown, pace zones, phase legend.
-  - `Weekly Plan` — every planned session from 22 Jul to race day, one row each, with
-    columns to log what actually happened.
+  - `Weekly Plan` — every planned session from 22 Jul to race day, one row each, with a
+    `Workout` column that names the session and columns to log what actually happened.
+  - `Workouts` — the workout library: each named session (intervals, tempo, time trials,
+    long runs, etc.) spelled out in full (warm-up, main set, cool-down, target paces). The
+    `Weekly Plan` `Workout` column references these names, so the detail lives in one place.
   - `Weekly Summary` — auto-computed adherence (planned vs. completed) and average RPE per week.
   - `Plan Changelog` — dated record of any changes made to the upcoming weeks and why.
 - **`.claude/skills/adapt-training-plan/SKILL.md`** — how Claude logs sessions and adapts
