@@ -73,8 +73,11 @@ Every adaptation gets a `Plan Changelog` row.
 ```bash
 git add Marathon_Training_Plan.xlsx CLAUDE.md README.md
 git commit -m "…describe the change…"
-git push origin HEAD
+git push origin main
 ```
 
 - Only commit when the user asks. Don't commit the Excel lock file (`~$*.xlsx`) or `.DS_Store`.
-- The `main` branch is what's published; PRs have been used historically (see `git log`).
+- **Push straight to `main`** — routine updates (logging sessions, plan adjustments) commit
+  directly on `main`, no feature branch or pull request. Work directly on `main` locally
+  (`git checkout main && git pull` first if it's been a while). PRs were used for the initial
+  two changes but that's no longer the workflow going forward.
