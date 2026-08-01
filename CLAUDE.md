@@ -25,8 +25,15 @@ The whole thing lives in one workbook so it works on laptop (Excel/LibreOffice) 
 
 `A` Week · `B` Phase · `C` Deload · `D` Date · `E` Day · `F` Session Type · `G` Discipline ·
 `H` Planned (km) · `I` Planned Pace/Effort · `J` Planned Focus · **`K` Workout (→ Workouts sheet)** ·
-`L` Completed (Y/N) · `M` Actual (km) · `N` Actual Duration · `O` Actual Pace · `P` RPE (1-10) ·
-`Q` Felt · `R` Notes.
+`L` Completed (Y/N) · `M` Actual (km) · `N` Actual Duration (min) · `O` Actual Pace (min/km) ·
+`P` RPE (1-10) · `Q` Felt · `R` Notes.
+
+> **Duration/pace convention:** `N` (Actual Duration) is logged in **whole minutes only** —
+> no seconds, no h:mm:ss. `O` (Actual Pace) is **never typed in** — it's a formula,
+> `=IF(OR(M="",N="",M=0),"",(N/M)/1440)` formatted as `mm:ss`, i.e. duration ÷ distance. If
+> someone reports a pace instead of a duration, convert `round(pace × distance)` to a
+> whole-minute duration before logging — the displayed pace will then be that rounded value,
+> not necessarily their exact reported pace.
 
 > **Important:** the log columns are now **L–R** (they used to be K–Q before the `Workout`
 > column was inserted at K). Any formula or note that references the log columns must use the

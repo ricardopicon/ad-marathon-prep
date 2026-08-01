@@ -6,9 +6,10 @@ description: "Use this skill whenever the user reports on marathon training for 
 # Adapt Abu Dhabi Marathon training plan
 
 `Marathon_Training_Plan.xlsx` (in this repo) is both the training plan and the training log for
-a sub-4:00 Abu Dhabi Marathon (12 Dec 2026). It has four sheets: `Overview`, `Weekly Plan`
-(one row per planned session, columns A-J planned / K-Q actual+log), `Weekly Summary` (formula
-rollups), `Plan Changelog`.
+a sub-4:00 Abu Dhabi Marathon (12 Dec 2026). It has five sheets: `Overview`, `Weekly Plan`
+(one row per planned session, columns A-K planned / L-R actual+log), `Workouts` (named session
+library the `Weekly Plan` `Workout` column references), `Weekly Summary` (formula rollups),
+`Plan Changelog`.
 
 Use the `xlsx` skill's tools/conventions (openpyxl, `scripts/recalc.py`) for every edit below —
 never hand-edit XML, and always run `recalc.py` after writing so formulas stay live. (If
@@ -20,8 +21,13 @@ real in Excel/LibreOffice, since recalculation on open is their default behavior
 
 Given a natural-language report, find the matching row in `Weekly Plan` (match by date if
 given, otherwise the nearest unlogged past session of that type) and fill in its input columns
-(K-Q, the yellow ones): `Completed (Y/N)`, `Actual (km)`, `Actual Duration`, `Actual Pace`,
-`RPE (1-10)`, `Felt`, `Notes`. Leave every other column untouched. If nothing matches (an extra
+(L-R, the yellow ones): `Completed (Y/N)`, `Actual (km)`, `Actual Duration (min)` — whole
+minutes only, `RPE (1-10)`, `Felt`, `Notes`. **Never type into `Actual Pace (min/km)`** — it's
+a formula (`Actual Duration / Actual (km)`, converted to a time value), not an input cell. If
+the user gives you a pace instead of a duration (e.g. "10km at 5:27/km"), convert it yourself
+(`round(pace_min_per_km * distance_km)`) and log the resulting whole-minute duration — say so,
+since rounding to the nearest minute means the pace shown may be off by a few seconds/km from
+what they actually ran. Leave every other column untouched. If nothing matches (an extra
 session, or a different day than planned), still record it in the closest row's Notes rather
 than inventing a new row.
 
