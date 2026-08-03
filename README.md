@@ -24,14 +24,15 @@ time trial. Training starts **Wednesday 22 July 2026**.
 21 weeks, **Sunday→Saturday** (matching the UAE week — weekend is Fri/Sat, both used for the
 week's two key running sessions).
 
-**From Week 3 onward**, all 3 gym sessions (Legs/Push/Pull) stay, but running is capped at 4
-sessions/week — down from an original 6-training-day/1-rest template that was too tiring
-several days in a row. Each gym day is paired with a run instead of leaving quality/medium-long
-runs standalone: Mon Gym Legs + easy run, Tue Gym Push + quality (tempo/intervals), **Wed full
-rest**, Thu Gym Pull + medium-long run, **Fri full rest** (optionally: 20-25min elliptical +
-hip/knee mobility work if you want extra low-impact conditioning — not a prescribed day), Sat
-long run (the one day never paired with gym). Max 2 training days in a row (Mon-Tue), with two
-full rest days (Wed, Sun) and Friday as a mostly-rest/optional day too.
+**From Week 3 onward**, all 3 gym sessions (Legs/Push/Pull) stay and running is capped at 4
+sessions/week, but the gym/run pairing follows real time availability: Sun-Thu is the tighter
+UAE work week, Fri-Sat is the weekend. Mon Gym Legs + easy run, **Tue medium-long run**, **Wed
+Gym Push** (standalone, no run — a workday, so it's a shorter session on its own), **Thu quality
+run** (tempo/intervals), **Fri Gym Pull** (standalone — optionally add 20-25min elliptical +
+hip/knee mobility work afterward as easy recovery between sessions, entirely optional), Sat
+long run (the one day never paired with gym), Sun full rest. Running days are Mon/Tue/Thu/Sat —
+max 2 running days in a row (Mon-Tue), comfortably under the "max 3 running days in a row" rule
+(a solo gym day doesn't count against that, since it's about running specifically).
 
 | Weeks | Phase | Focus |
 |---|---|---|

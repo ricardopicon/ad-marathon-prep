@@ -9,15 +9,20 @@ Goal: **sub-3:50** (~5:27/km), recalibrated from the initial sub-4:00 after the 
 Training starts **Wed 22 Jul 2026**. 21 weeks, Sunday→Saturday weeks (UAE week).
 
 **Weekly template (from Wk3/Aug 2026 onward — Wk1-2 predate this change):** all 3 gym sessions
-(Legs/Push/Pull) stay, but running is capped at 4 sessions/week by pairing each gym day with a
-run rather than leaving quality/medium-long runs standalone: Mon Gym Legs + easy run, Tue Gym
-Push + quality (tempo/intervals), **Wed full rest**, Thu Gym Pull + medium-long run, **Fri full
-rest** (optional: 20-25min elliptical + hip/knee mobility work, entirely optional, not a
-prescribed day), Sat long run (run-only, the one day never paired with gym), Sun full rest.
-4 training days, max 2 in a row (Mon-Tue), 2 full rest days (Wed, Sun) plus Fri as a third
-mostly-rest day — changed from an original 6-day/1-rest template, then from a since-corrected
-"drop Push/Pull to 1 gym day" version, because the user wants all 3 gym days kept but running
-volume/frequency reduced instead; see `Plan Changelog` for both revisions.
+(Legs/Push/Pull) stay, running is capped at 4 sessions/week, and gym/run pairing is driven by
+weekly time availability (UAE workweek Sun-Thu = less free time, weekend Fri-Sat = more) rather
+than by rigid rest-day placement: Mon Gym Legs + easy run, **Tue medium-long run (run-only)**,
+**Wed Gym Push (standalone, no run)**, **Thu quality run — tempo/intervals (run-only)**,
+**Fri Gym Pull (standalone) — optionally add 20-25min elliptical + hip/knee mobility work
+afterward as easy recovery between sessions, entirely optional**, Sat long run (run-only, the
+one day never paired with gym), Sun full rest. Running days are Mon/Tue/Thu/Sat — max **2**
+running days in a row (Mon-Tue), well under the "max 3 running days in a row" rule (that rule
+is about running specifically, not all training — a solo gym day doesn't count against it).
+Revision history: original 6-day/1-rest template → dropped Push/Pull to cut total days (too
+aggressive, corrected) → kept all 3 gym days but paired each with a run (still 6 active
+days/week) → **current**: gym decoupled onto its own days (Wed, Fri) so Tue/Thu each carry only
+one activity, addressing that Sun-Thu is the tighter-time week. See `Plan Changelog` for the
+full history.
 
 The whole thing lives in one workbook so it works on laptop (Excel/LibreOffice) and phone
 (Excel mobile).
