@@ -1,7 +1,8 @@
 # ad-marathon-prep
 
 Training plan and log for the **Abu Dhabi Marathon, Saturday 12 December 2026**.
-Goal: **sub-4:00** (~5:41/km average pace). Training starts **Wednesday 22 July 2026**.
+Goal: **sub-3:50** (~5:27/km average pace), recalibrated from sub-4:00 after the Week 1 5K
+time trial. Training starts **Wednesday 22 July 2026**.
 
 ## Files
 
@@ -21,8 +22,15 @@ Goal: **sub-4:00** (~5:41/km average pace). Training starts **Wednesday 22 July 
 ## The plan, in brief
 
 21 weeks, **Sunday→Saturday** (matching the UAE week — weekend is Fri/Sat, both used for the
-week's two key running sessions). 6 training days/week, 1 full rest day (Sunday), gym 3x/week
-(Legs/Push/Pull) combined with easy runs on non-long-run days.
+week's two key running sessions).
+
+**From Week 3 onward**, the weekly template is 4 training days + 1 light cross-training day +
+2 rest days (down from an initial 6 training days/1 rest — that was too tiring several days in
+a row): Mon Gym Legs + easy run, Tue quality (tempo/intervals), **Wed rest**, Thu medium-long
+run, **Fri Elliptical + hip/knee circuit** (low-impact, not a running/gym day), Sat long run,
+Sun rest. Never more than 3 training days in a row, and the one 3-day stretch (Thu-Fri-Sat)
+has a deliberately light day in the middle. Gym is Legs only now; Push/Pull were dropped
+rather than squeezed into fewer days.
 
 | Weeks | Phase | Focus |
 |---|---|---|

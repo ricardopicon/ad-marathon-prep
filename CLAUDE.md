@@ -5,8 +5,16 @@ Working notes for anyone (human or Claude) editing this repo. Keep this file cur
 ## What this repo is
 
 Training plan **and** training log for the **Abu Dhabi Marathon, Sat 12 Dec 2026**.
-Goal: **sub-4:00** (~5:41/km). Training starts **Wed 22 Jul 2026**. 21 weeks, Sunday→Saturday
-weeks (UAE week), 6 training days + 1 rest (Sun), gym 3x/week (Legs/Push/Pull).
+Goal: **sub-3:50** (~5:27/km), recalibrated from the initial sub-4:00 after the Wk1 5K test.
+Training starts **Wed 22 Jul 2026**. 21 weeks, Sunday→Saturday weeks (UAE week).
+
+**Weekly template (from Wk3/Aug 2026 onward — Wk1-2 predate this change):** 4 training days +
+1 light cross-training day + 2 rest days. Mon Gym Legs + easy run, Tue quality (tempo/intervals),
+**Wed full rest**, Thu medium-long run, **Fri Elliptical + hip/knee circuit** (low-impact, not a
+running/gym day), Sat long run, Sun full rest. Max 3 consecutive training days (Thu-Fri-Sat, and
+Fri is deliberately light) — changed from the original 6-day/1-rest template because 4+
+consecutive hard days was too tiring; see `Plan Changelog`. Gym is now Legs only (1x/week);
+Push/Pull were dropped rather than compressed into fewer days.
 
 The whole thing lives in one workbook so it works on laptop (Excel/LibreOffice) and phone
 (Excel mobile).
