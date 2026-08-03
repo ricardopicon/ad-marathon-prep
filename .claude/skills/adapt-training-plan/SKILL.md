@@ -39,9 +39,10 @@ below — don't wait to be asked.
 Adaptation is bounded and only ever touches **the next 1-3 weeks that have no logged sessions
 yet**. Never rewrite a week that already has `Completed` entries, never move the race date, and
 never change the phase skeleton (Base building/Aerobic build/Peak/Taper) or the weekly
-day-of-week pattern (Mon Gym Legs + easy run, Tue quality, Wed rest, Thu medium-long run,
-Fri Elliptical + hip/knee circuit, Sat long run, Sun rest — at most 4 training days/week,
-never more than 3 in a row per the user's standing preference) — only the *volume and target
+day-of-week pattern (Mon Gym Legs + easy run, Tue Gym Push + quality, Wed full rest, Thu Gym
+Pull + medium-long run, Fri full rest (optional elliptical + hip/knee work), Sat long run
+run-only, Sun full rest — all 3 gym sessions/week stay, running is capped at 4/week, max 2
+training days in a row, per the user's standing preference) — only the *volume and target
 pace* inside that pattern.
 
 Look at the most recently logged 1-2 weeks in `Weekly Plan` / `Weekly Summary` and apply

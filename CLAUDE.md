@@ -8,13 +8,16 @@ Training plan **and** training log for the **Abu Dhabi Marathon, Sat 12 Dec 2026
 Goal: **sub-3:50** (~5:27/km), recalibrated from the initial sub-4:00 after the Wk1 5K test.
 Training starts **Wed 22 Jul 2026**. 21 weeks, Sunday→Saturday weeks (UAE week).
 
-**Weekly template (from Wk3/Aug 2026 onward — Wk1-2 predate this change):** 4 training days +
-1 light cross-training day + 2 rest days. Mon Gym Legs + easy run, Tue quality (tempo/intervals),
-**Wed full rest**, Thu medium-long run, **Fri Elliptical + hip/knee circuit** (low-impact, not a
-running/gym day), Sat long run, Sun full rest. Max 3 consecutive training days (Thu-Fri-Sat, and
-Fri is deliberately light) — changed from the original 6-day/1-rest template because 4+
-consecutive hard days was too tiring; see `Plan Changelog`. Gym is now Legs only (1x/week);
-Push/Pull were dropped rather than compressed into fewer days.
+**Weekly template (from Wk3/Aug 2026 onward — Wk1-2 predate this change):** all 3 gym sessions
+(Legs/Push/Pull) stay, but running is capped at 4 sessions/week by pairing each gym day with a
+run rather than leaving quality/medium-long runs standalone: Mon Gym Legs + easy run, Tue Gym
+Push + quality (tempo/intervals), **Wed full rest**, Thu Gym Pull + medium-long run, **Fri full
+rest** (optional: 20-25min elliptical + hip/knee mobility work, entirely optional, not a
+prescribed day), Sat long run (run-only, the one day never paired with gym), Sun full rest.
+4 training days, max 2 in a row (Mon-Tue), 2 full rest days (Wed, Sun) plus Fri as a third
+mostly-rest day — changed from an original 6-day/1-rest template, then from a since-corrected
+"drop Push/Pull to 1 gym day" version, because the user wants all 3 gym days kept but running
+volume/frequency reduced instead; see `Plan Changelog` for both revisions.
 
 The whole thing lives in one workbook so it works on laptop (Excel/LibreOffice) and phone
 (Excel mobile).

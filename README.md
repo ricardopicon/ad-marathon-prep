@@ -24,13 +24,14 @@ time trial. Training starts **Wednesday 22 July 2026**.
 21 weeks, **Sunday→Saturday** (matching the UAE week — weekend is Fri/Sat, both used for the
 week's two key running sessions).
 
-**From Week 3 onward**, the weekly template is 4 training days + 1 light cross-training day +
-2 rest days (down from an initial 6 training days/1 rest — that was too tiring several days in
-a row): Mon Gym Legs + easy run, Tue quality (tempo/intervals), **Wed rest**, Thu medium-long
-run, **Fri Elliptical + hip/knee circuit** (low-impact, not a running/gym day), Sat long run,
-Sun rest. Never more than 3 training days in a row, and the one 3-day stretch (Thu-Fri-Sat)
-has a deliberately light day in the middle. Gym is Legs only now; Push/Pull were dropped
-rather than squeezed into fewer days.
+**From Week 3 onward**, all 3 gym sessions (Legs/Push/Pull) stay, but running is capped at 4
+sessions/week — down from an original 6-training-day/1-rest template that was too tiring
+several days in a row. Each gym day is paired with a run instead of leaving quality/medium-long
+runs standalone: Mon Gym Legs + easy run, Tue Gym Push + quality (tempo/intervals), **Wed full
+rest**, Thu Gym Pull + medium-long run, **Fri full rest** (optionally: 20-25min elliptical +
+hip/knee mobility work if you want extra low-impact conditioning — not a prescribed day), Sat
+long run (the one day never paired with gym). Max 2 training days in a row (Mon-Tue), with two
+full rest days (Wed, Sun) and Friday as a mostly-rest/optional day too.
 
 | Weeks | Phase | Focus |
 |---|---|---|
